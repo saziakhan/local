@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 8eab557..db862d6 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,3 +1,2 @@[m
+ <p>helllo sazia</p>[m
+[31m-<h>hello beautiful </h>[m
+[31m-<h1>cutiepie</h1>[m
+\ No newline at end of file[m
+[32m+[m[32m<h>hello beautiful </h>[m
+\ No newline at end of file[m
